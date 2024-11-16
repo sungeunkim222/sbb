@@ -5,6 +5,5 @@
 상세 페이지
 ![image](https://github.com/user-attachments/assets/67c0edd7-e057-4605-8035-5a217136f085)
 
-앵커기능추가하기
-https://youtu.be/epwvSsY01Ls
-[![Video Label](http://img.youtube.com/vi/epwvSsY01Ls/0.jpg)('https://youtu.be/epwvSsY01Ls')
+- 앵커기능추가하기 https://youtu.be/epwvSsY01Ls
+- 마크다운적용하기 https://youtu.be/cZLeVFgMavw
