@@ -8,3 +8,4 @@
 앵커기능추가하기
 https://youtu.be/epwvSsY01Ls
 [![Video Label](http://img.youtube.com/vi/epwvSsY01Ls/0.jpg)(https://youtu.be/epwvSsY01Ls)
+{% include video id="epwvSsY01Ls" provider="youtube" %}
